@@ -51,8 +51,8 @@ We believe in **passion-driven development**. Every project we take on is infuse
 
 Interested in working with us? We’re always looking for exciting projects and partnerships! Reach out to explore how we can collaborate:
 
-- **Website**: [halsengroup.com](https://halsengroup.com)  
-- **Email**: contact@halsengroup.com  
+- **Website**: [halsengroup.com](https://halsen.dev)  
+- **Email**: espehalse@gmail.com
 - **Location**: Brønnøysund, Norway
 
 ---
